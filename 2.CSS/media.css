@@ -1,0 +1,52 @@
+@media  screen and (max-width:913px)
+{
+    *
+    {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+    body
+    {
+        width: 912px;
+        overflow-x: hidden;
+    }.content{
+        background-image: none;
+        margin: 0%;
+    }
+    #logo img {
+        height: 50px;
+        width: 60px;
+    }.container{
+        display: flex;
+        flex-direction: column;
+        padding: 5px 25px;
+        
+    }.box1:hover{
+        height: 200px;
+        width: 500px;
+        font-size: 20px;
+      
+    
+    }.client,img{
+        height: 15%;
+        width: 16%;
+      
+        
+    } .lb1{
+        font-size: 15px;
+        padding: 5px 5px;
+        margin: 1px;
+        padding-top: 18px;
+    } .lb2{
+        font-size: 15px;
+        padding: 5px 5px;
+        margin: 1px;
+        padding-top: 18px;
+    } .lb3{
+        font-size: 15px;
+        padding: 5px 5px;
+        margin: 1px;
+        padding-top: 18px;
+    }
+}
